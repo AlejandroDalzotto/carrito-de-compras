@@ -9,8 +9,8 @@ Este es mi primer proyecto hecho con React, un pequeño carro de compras el cual
 - React
 - JavaScript
 - HTML5
+- TailwindCSS
 
 ### Librerías | Recursos:
-- TailwindCSS
 - Font Awesome
 - Aos
